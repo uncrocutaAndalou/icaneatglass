@@ -1,0 +1,9 @@
+@font-face {
+	font-family: font;
+	src: url("/fonts/HouZunSongTi.ttf");
+}
+
+html {
+	font-family: font;
+	letter-spacing: 0.1em;
+}
