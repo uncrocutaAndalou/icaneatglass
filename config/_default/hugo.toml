@@ -19,7 +19,7 @@ hasCJKLanguage = true
 # googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 100
 
 [imaging]
   anchor = 'Center'

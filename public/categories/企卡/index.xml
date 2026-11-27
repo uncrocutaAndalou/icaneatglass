@@ -10,21 +10,771 @@
     <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E4%BC%81%E5%8D%A1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>企卡 - 阿尔吉侬</title>
-      <link>http://localhost:1313/chars/char-algernon/</link>
+      <title>企卡 - “好孩子”</title>
+      <link>http://localhost:1313/chars/goodboy/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/char-algernon/</guid>
+      <guid>http://localhost:1313/chars/goodboy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - “杂种”先生</title>
+      <link>http://localhost:1313/chars/mr-mongrel/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mr-mongrel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - D 姊妹</title>
+      <link>http://localhost:1313/chars/sister-d/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/sister-d/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - Elo</title>
+      <link>http://localhost:1313/chars/elo/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/elo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - M＆M</title>
+      <link>http://localhost:1313/chars/mark-mckenna/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mark-mckenna/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - MAY (WAY)</title>
+      <link>http://localhost:1313/chars/may-way/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/may-way/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - Q</title>
+      <link>http://localhost:1313/chars/q/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/q/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - Stellan</title>
+      <link>http://localhost:1313/chars/stellan/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/stellan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 阿尔吉侬</title>
+      <link>http://localhost:1313/chars/algernon/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/algernon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 爱神小姐</title>
+      <link>http://localhost:1313/chars/love-goddess/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/love-goddess/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 巴克斯</title>
+      <link>http://localhost:1313/chars/bacchus/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/bacchus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 百万佛主＆稚儿</title>
+      <link>http://localhost:1313/chars/millionaire-buddha-the-votary/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/millionaire-buddha-the-votary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 摆渡人</title>
+      <link>http://localhost:1313/chars/le-passeur/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/le-passeur/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 薄雾小姐</title>
+      <link>http://localhost:1313/chars/miss-mist/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-mist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 笔者</title>
+      <link>http://localhost:1313/chars/pen/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/pen/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 惨剧新郎</title>
+      <link>http://localhost:1313/chars/tragedys-groom/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/tragedys-groom/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 沉默寡妇</title>
+      <link>http://localhost:1313/chars/mute-widow/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mute-widow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 绸缎之下</title>
+      <link>http://localhost:1313/chars/under-silk/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/under-silk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 蠢货</title>
+      <link>http://localhost:1313/chars/idiot/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/idiot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 大男孩</title>
+      <link>http://localhost:1313/chars/male-chauvinist/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/male-chauvinist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 淡水龙虾</title>
+      <link>http://localhost:1313/chars/crayfish/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/crayfish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 东瀛兵人</title>
+      <link>http://localhost:1313/chars/jpsoldier/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/jpsoldier/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 独角兽小姐</title>
+      <link>http://localhost:1313/chars/miss-unicorn/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-unicorn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 渡鸦</title>
+      <link>http://localhost:1313/chars/raven/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/raven/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 愤怒小熊</title>
+      <link>http://localhost:1313/chars/angry-bear/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/angry-bear/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 芙洛拉&amp;Cherry</title>
+      <link>http://localhost:1313/chars/flora-cherry/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/flora-cherry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 负鼠选手</title>
+      <link>http://localhost:1313/chars/possum-player/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/possum-player/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 公正骑士</title>
+      <link>http://localhost:1313/chars/justice-knight/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/justice-knight/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 鬼魂</title>
+      <link>http://localhost:1313/chars/ghost/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/ghost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 黑條紋先生</title>
+      <link>http://localhost:1313/chars/mr-blackstripe/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mr-blackstripe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 红宝石</title>
+      <link>http://localhost:1313/chars/ruby/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/ruby/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 护士小姐</title>
+      <link>http://localhost:1313/chars/miss-nurse/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-nurse/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 饥饿斗士</title>
+      <link>http://localhost:1313/chars/hunger-fighter/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/hunger-fighter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 简直要了我的命</title>
+      <link>http://localhost:1313/chars/omg/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/omg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 净盘将军</title>
+      <link>http://localhost:1313/chars/general-clean-plate/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/general-clean-plate/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 鸠先生</title>
+      <link>http://localhost:1313/chars/mr-jiu/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mr-jiu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 枯萎颂</title>
+      <link>http://localhost:1313/chars/wither-song/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/wither-song/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 苦行女爵</title>
+      <link>http://localhost:1313/chars/suffer-dame/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/suffer-dame/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 乐手 L</title>
+      <link>http://localhost:1313/chars/musician-l/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/musician-l/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 丽塔</title>
+      <link>http://localhost:1313/chars/rita/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/rita/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>企卡 - 李苹</title>
-      <link>http://localhost:1313/chars/char-apple/</link>
+      <link>http://localhost:1313/chars/apple/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/char-apple/</guid>
+      <guid>http://localhost:1313/chars/apple/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 烈阳＆宝剑王牌</title>
+      <link>http://localhost:1313/chars/sun-sword/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/sun-sword/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 临时工</title>
+      <link>http://localhost:1313/chars/the-temp/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/the-temp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 罗密欧＆朱丽叶</title>
+      <link>http://localhost:1313/chars/romeo-juliet/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/romeo-juliet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 马索克博士</title>
+      <link>http://localhost:1313/chars/dr-masoch/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/dr-masoch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 乔安妮</title>
+      <link>http://localhost:1313/chars/joeanne/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/joeanne/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 情人达克</title>
+      <link>http://localhost:1313/chars/lover-darker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/lover-darker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 肉兔</title>
+      <link>http://localhost:1313/chars/rabbit/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/rabbit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 三号冠军</title>
+      <link>http://localhost:1313/chars/no3-champion/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/no3-champion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 沙漠舵手</title>
+      <link>http://localhost:1313/chars/helmsman-in-desert/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/helmsman-in-desert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 少爷</title>
+      <link>http://localhost:1313/chars/young-master/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/young-master/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 生母</title>
+      <link>http://localhost:1313/chars/birth-mother/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/birth-mother/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 失眠者</title>
+      <link>http://localhost:1313/chars/somnlos/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/somnlos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 诗温德</title>
+      <link>http://localhost:1313/chars/schwindel/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/schwindel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 碎纸机女工</title>
+      <link>http://localhost:1313/chars/shredder-worker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/shredder-worker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 索多玛人</title>
+      <link>http://localhost:1313/chars/sodomite/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/sodomite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 逃亡锡兵</title>
+      <link>http://localhost:1313/chars/runaway-tinsoldier/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/runaway-tinsoldier/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 往日童星</title>
+      <link>http://localhost:1313/chars/past-childstar/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/past-childstar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 忘却医生</title>
+      <link>http://localhost:1313/chars/dr-oblivion/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/dr-oblivion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 息事顾问</title>
+      <link>http://localhost:1313/chars/quietus-counselor/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/quietus-counselor/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 下颌小姐</title>
+      <link>http://localhost:1313/chars/miss-mandible/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-mandible/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 向日葵</title>
+      <link>http://localhost:1313/chars/sunflower/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/sunflower/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 小丑</title>
+      <link>http://localhost:1313/chars/joker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/joker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 小姑娘</title>
+      <link>http://localhost:1313/chars/little-lass/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/little-lass/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 信条术士</title>
+      <link>http://localhost:1313/chars/creed-warlock/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/creed-warlock/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 幸福代理</title>
+      <link>http://localhost:1313/chars/pornographer/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/pornographer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 巡星</title>
+      <link>http://localhost:1313/chars/star/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/star/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 烟灰缸</title>
+      <link>http://localhost:1313/chars/ashtray/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/ashtray/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 野鼠</title>
+      <link>http://localhost:1313/chars/rat/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/rat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 一位作家</title>
+      <link>http://localhost:1313/chars/a-writer/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/a-writer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 遗忘电台</title>
+      <link>http://localhost:1313/chars/mx-kol/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mx-kol/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 阴道苦修士</title>
+      <link>http://localhost:1313/chars/vaginal-suffering-monk/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/vaginal-suffering-monk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 猪饲料小姐</title>
+      <link>http://localhost:1313/chars/miss-pigfeed/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-pigfeed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 烛光人偶</title>
+      <link>http://localhost:1313/chars/candlelight-doll/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/candlelight-doll/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 字工</title>
+      <link>http://localhost:1313/chars/word-worker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/word-worker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 自虐先导</title>
+      <link>http://localhost:1313/chars/self-abuse-guide/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/self-abuse-guide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 昨日晨星</title>
+      <link>http://localhost:1313/chars/yesterday-morningstar/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/yesterday-morningstar/</guid>
       <description></description>
       
     </item>

@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>互动</title>
+      <link>http://localhost:1313/categories/%E4%BA%92%E5%8A%A8/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E4%BA%92%E5%8A%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线</title>
+      <link>http://localhost:1313/categories/%E4%B8%BB%E7%BA%BF/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E4%B8%BB%E7%BA%BF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>活动发布</title>
+      <link>http://localhost:1313/categories/%E6%B4%BB%E5%8A%A8%E5%8F%91%E5%B8%83/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/%E6%B4%BB%E5%8A%A8%E5%8F%91%E5%B8%83/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>企卡</title>

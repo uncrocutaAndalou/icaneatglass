@@ -1,18 +1,19 @@
 ---
 title: "企卡 - 李苹"
 date: 2026-11-26
-description: ""
-slug: "char-apple"
+slug: "apple"
 categories: "企卡"
 tags: []
 authors:
-    - "apple"
+    - "李苹"
 ---
 
-![](apple1.png)
-![](apple2.png)
-![](apple3.png)
-![](apple4.png)
-![](apple5.png)
-![](apple6.png)
-![](apple7.png)
+<div class="view-box" view-image style="--cols:2">
+	<img src="apple1.png" />
+	<img src="apple2.png" />
+	<img src="apple3.png" />
+	<img src="apple4.png" />
+	<img src="apple5.png" />
+	<img src="apple6.png" />
+	<img src="apple7.png" />
+</div>

@@ -7,24 +7,1654 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>主线 0</title>
+      <link>http://localhost:1313/plot/chapter0/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/plot/chapter0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1</title>
+      <link>http://localhost:1313/plot/chapter1/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/plot/chapter1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - “杂种”先生</title>
+      <link>http://localhost:1313/interact/mr-mongrel1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/mr-mongrel1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - D 姊妹 to 苦行女爵</title>
+      <link>http://localhost:1313/interact/sister-d1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/sister-d1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 爱神小姐的行李箱</title>
+      <link>http://localhost:1313/interact/love-goddess2/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/love-goddess2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 百万佛主＆稚儿</title>
+      <link>http://localhost:1313/interact/millionaire-buddha-the-votary1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/millionaire-buddha-the-votary1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 摆渡人 to 好孩子</title>
+      <link>http://localhost:1313/interact/le-passeur1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/le-passeur1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 大男孩 to 巴克斯</title>
+      <link>http://localhost:1313/interact/male-chauvinist1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/male-chauvinist1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 东瀛兵人 to 负鼠选手</title>
+      <link>http://localhost:1313/interact/jpsoldier3/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/jpsoldier3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 东瀛兵人 to 净盘将军</title>
+      <link>http://localhost:1313/interact/jpsoldier1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/jpsoldier1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 东瀛兵人的手账本</title>
+      <link>http://localhost:1313/interact/jpsoldier2/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/jpsoldier2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 独角兽小姐 to 杂种先生</title>
+      <link>http://localhost:1313/interact/miss-unicorn1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/miss-unicorn1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 负鼠选手 to 愤怒小熊</title>
+      <link>http://localhost:1313/interact/possum-player1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/possum-player1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 好孩子 to 小姑娘</title>
+      <link>http://localhost:1313/interact/goodboy1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/goodboy1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 简直要了我的命 to 苦行女爵</title>
+      <link>http://localhost:1313/interact/omg1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/omg1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 净盘将军 to 东瀛兵人</title>
+      <link>http://localhost:1313/interact/general-clean-plate1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/general-clean-plate1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 苦行女爵</title>
+      <link>http://localhost:1313/interact/suffer-dame4/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/suffer-dame4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 苦行女爵 to D 姊妹</title>
+      <link>http://localhost:1313/interact/suffer-dame1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/suffer-dame1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 苦行女爵 to 愤怒小熊</title>
+      <link>http://localhost:1313/interact/suffer-dame3/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/suffer-dame3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 苦行女爵 to 小姑娘</title>
+      <link>http://localhost:1313/interact/suffer-dame2/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/suffer-dame2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 乐手 L</title>
+      <link>http://localhost:1313/interact/musician-l1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/musician-l1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 马索克博士 to 苦行女爵</title>
+      <link>http://localhost:1313/interact/dr-masoch1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/dr-masoch1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 沙漠舵手</title>
+      <link>http://localhost:1313/interact/helmsman-in-desert1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/helmsman-in-desert1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 身高表</title>
+      <link>http://localhost:1313/interact/love-goddess1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/love-goddess1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 诗温德</title>
+      <link>http://localhost:1313/interact/schwindel1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/schwindel1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 示例</title>
+      <link>http://localhost:1313/interact/example/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/example/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 小姑娘</title>
+      <link>http://localhost:1313/interact/little-lass1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/little-lass1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 讶异信差</title>
+      <link>http://localhost:1313/interact/404/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/404/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 烟灰缸</title>
+      <link>http://localhost:1313/interact/ashtray1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/ashtray1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 烛光人偶 to 李苹</title>
+      <link>http://localhost:1313/interact/candlelight-doll1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/candlelight-doll1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - “好孩子”</title>
+      <link>http://localhost:1313/ch1/goodboy/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/goodboy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - “杂种”先生</title>
+      <link>http://localhost:1313/ch1/mr-mongrel/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/mr-mongrel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - D 姊妹</title>
+      <link>http://localhost:1313/ch1/sister-d/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/sister-d/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 爱神小姐</title>
+      <link>http://localhost:1313/ch1/love-goddess/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/love-goddess/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 薄雾小姐</title>
+      <link>http://localhost:1313/ch1/miss-mist/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/miss-mist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 大男孩</title>
+      <link>http://localhost:1313/ch1/male-chauvinist/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/male-chauvinist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 渡鸦</title>
+      <link>http://localhost:1313/ch1/raven/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/raven/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 饥饿斗士</title>
+      <link>http://localhost:1313/ch1/hunger-fighter/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/hunger-fighter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 苦行女爵</title>
+      <link>http://localhost:1313/ch1/suffer-dame/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/suffer-dame/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 乐手 L</title>
+      <link>http://localhost:1313/ch1/musician-l/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/musician-l/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 马索克博士</title>
+      <link>http://localhost:1313/ch1/dr-masoch/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/dr-masoch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 示例</title>
+      <link>http://localhost:1313/ch1/example/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/example/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 碎纸机女工</title>
+      <link>http://localhost:1313/ch1/shredder-worker/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/shredder-worker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - “好孩子”</title>
+      <link>http://localhost:1313/chars/goodboy/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/goodboy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - “杂种”先生</title>
+      <link>http://localhost:1313/chars/mr-mongrel/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mr-mongrel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - D 姊妹</title>
+      <link>http://localhost:1313/chars/sister-d/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/sister-d/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - Elo</title>
+      <link>http://localhost:1313/chars/elo/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/elo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - M＆M</title>
+      <link>http://localhost:1313/chars/mark-mckenna/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mark-mckenna/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - MAY (WAY)</title>
+      <link>http://localhost:1313/chars/may-way/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/may-way/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - Q</title>
+      <link>http://localhost:1313/chars/q/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/q/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - Stellan</title>
+      <link>http://localhost:1313/chars/stellan/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/stellan/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>企卡 - 阿尔吉侬</title>
-      <link>http://localhost:1313/chars/char-algernon/</link>
+      <link>http://localhost:1313/chars/algernon/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/char-algernon/</guid>
+      <guid>http://localhost:1313/chars/algernon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 爱神小姐</title>
+      <link>http://localhost:1313/chars/love-goddess/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/love-goddess/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 巴克斯</title>
+      <link>http://localhost:1313/chars/bacchus/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/bacchus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 百万佛主＆稚儿</title>
+      <link>http://localhost:1313/chars/millionaire-buddha-the-votary/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/millionaire-buddha-the-votary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 摆渡人</title>
+      <link>http://localhost:1313/chars/le-passeur/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/le-passeur/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 薄雾小姐</title>
+      <link>http://localhost:1313/chars/miss-mist/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-mist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 笔者</title>
+      <link>http://localhost:1313/chars/pen/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/pen/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 惨剧新郎</title>
+      <link>http://localhost:1313/chars/tragedys-groom/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/tragedys-groom/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 沉默寡妇</title>
+      <link>http://localhost:1313/chars/mute-widow/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mute-widow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 绸缎之下</title>
+      <link>http://localhost:1313/chars/under-silk/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/under-silk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 蠢货</title>
+      <link>http://localhost:1313/chars/idiot/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/idiot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 大男孩</title>
+      <link>http://localhost:1313/chars/male-chauvinist/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/male-chauvinist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 淡水龙虾</title>
+      <link>http://localhost:1313/chars/crayfish/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/crayfish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 东瀛兵人</title>
+      <link>http://localhost:1313/chars/jpsoldier/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/jpsoldier/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 独角兽小姐</title>
+      <link>http://localhost:1313/chars/miss-unicorn/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-unicorn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 渡鸦</title>
+      <link>http://localhost:1313/chars/raven/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/raven/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 愤怒小熊</title>
+      <link>http://localhost:1313/chars/angry-bear/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/angry-bear/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 芙洛拉&amp;Cherry</title>
+      <link>http://localhost:1313/chars/flora-cherry/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/flora-cherry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 负鼠选手</title>
+      <link>http://localhost:1313/chars/possum-player/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/possum-player/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 公正骑士</title>
+      <link>http://localhost:1313/chars/justice-knight/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/justice-knight/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 鬼魂</title>
+      <link>http://localhost:1313/chars/ghost/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/ghost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 黑條紋先生</title>
+      <link>http://localhost:1313/chars/mr-blackstripe/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mr-blackstripe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 红宝石</title>
+      <link>http://localhost:1313/chars/ruby/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/ruby/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 护士小姐</title>
+      <link>http://localhost:1313/chars/miss-nurse/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-nurse/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 饥饿斗士</title>
+      <link>http://localhost:1313/chars/hunger-fighter/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/hunger-fighter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 简直要了我的命</title>
+      <link>http://localhost:1313/chars/omg/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/omg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 净盘将军</title>
+      <link>http://localhost:1313/chars/general-clean-plate/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/general-clean-plate/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 鸠先生</title>
+      <link>http://localhost:1313/chars/mr-jiu/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mr-jiu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 枯萎颂</title>
+      <link>http://localhost:1313/chars/wither-song/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/wither-song/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 苦行女爵</title>
+      <link>http://localhost:1313/chars/suffer-dame/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/suffer-dame/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 乐手 L</title>
+      <link>http://localhost:1313/chars/musician-l/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/musician-l/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 丽塔</title>
+      <link>http://localhost:1313/chars/rita/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/rita/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>企卡 - 李苹</title>
-      <link>http://localhost:1313/chars/char-apple/</link>
+      <link>http://localhost:1313/chars/apple/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/char-apple/</guid>
+      <guid>http://localhost:1313/chars/apple/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 烈阳＆宝剑王牌</title>
+      <link>http://localhost:1313/chars/sun-sword/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/sun-sword/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 临时工</title>
+      <link>http://localhost:1313/chars/the-temp/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/the-temp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 罗密欧＆朱丽叶</title>
+      <link>http://localhost:1313/chars/romeo-juliet/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/romeo-juliet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 马索克博士</title>
+      <link>http://localhost:1313/chars/dr-masoch/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/dr-masoch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 乔安妮</title>
+      <link>http://localhost:1313/chars/joeanne/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/joeanne/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 情人达克</title>
+      <link>http://localhost:1313/chars/lover-darker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/lover-darker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 肉兔</title>
+      <link>http://localhost:1313/chars/rabbit/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/rabbit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 三号冠军</title>
+      <link>http://localhost:1313/chars/no3-champion/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/no3-champion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 沙漠舵手</title>
+      <link>http://localhost:1313/chars/helmsman-in-desert/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/helmsman-in-desert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 少爷</title>
+      <link>http://localhost:1313/chars/young-master/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/young-master/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 生母</title>
+      <link>http://localhost:1313/chars/birth-mother/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/birth-mother/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 失眠者</title>
+      <link>http://localhost:1313/chars/somnlos/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/somnlos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 诗温德</title>
+      <link>http://localhost:1313/chars/schwindel/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/schwindel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 碎纸机女工</title>
+      <link>http://localhost:1313/chars/shredder-worker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/shredder-worker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 索多玛人</title>
+      <link>http://localhost:1313/chars/sodomite/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/sodomite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 逃亡锡兵</title>
+      <link>http://localhost:1313/chars/runaway-tinsoldier/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/runaway-tinsoldier/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 往日童星</title>
+      <link>http://localhost:1313/chars/past-childstar/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/past-childstar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 忘却医生</title>
+      <link>http://localhost:1313/chars/dr-oblivion/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/dr-oblivion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 息事顾问</title>
+      <link>http://localhost:1313/chars/quietus-counselor/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/quietus-counselor/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 下颌小姐</title>
+      <link>http://localhost:1313/chars/miss-mandible/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-mandible/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 向日葵</title>
+      <link>http://localhost:1313/chars/sunflower/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/sunflower/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 小丑</title>
+      <link>http://localhost:1313/chars/joker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/joker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 小姑娘</title>
+      <link>http://localhost:1313/chars/little-lass/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/little-lass/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 信条术士</title>
+      <link>http://localhost:1313/chars/creed-warlock/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/creed-warlock/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 幸福代理</title>
+      <link>http://localhost:1313/chars/pornographer/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/pornographer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 巡星</title>
+      <link>http://localhost:1313/chars/star/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/star/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 烟灰缸</title>
+      <link>http://localhost:1313/chars/ashtray/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/ashtray/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 野鼠</title>
+      <link>http://localhost:1313/chars/rat/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/rat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 一位作家</title>
+      <link>http://localhost:1313/chars/a-writer/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/a-writer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 遗忘电台</title>
+      <link>http://localhost:1313/chars/mx-kol/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/mx-kol/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 阴道苦修士</title>
+      <link>http://localhost:1313/chars/vaginal-suffering-monk/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/vaginal-suffering-monk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 猪饲料小姐</title>
+      <link>http://localhost:1313/chars/miss-pigfeed/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/miss-pigfeed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 烛光人偶</title>
+      <link>http://localhost:1313/chars/candlelight-doll/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/candlelight-doll/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 字工</title>
+      <link>http://localhost:1313/chars/word-worker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/word-worker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 自虐先导</title>
+      <link>http://localhost:1313/chars/self-abuse-guide/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/self-abuse-guide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 昨日晨星</title>
+      <link>http://localhost:1313/chars/yesterday-morningstar/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/yesterday-morningstar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - “好孩子”</title>
+      <link>http://localhost:1313/ch0/goodboy/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/goodboy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - “杂种”先生</title>
+      <link>http://localhost:1313/ch0/mr-mongrel/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/mr-mongrel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - D 姊妹</title>
+      <link>http://localhost:1313/ch0/sister-d/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/sister-d/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - M＆M</title>
+      <link>http://localhost:1313/ch0/mark-mckenna/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/mark-mckenna/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - Q</title>
+      <link>http://localhost:1313/ch0/q/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/q/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 阿尔吉侬</title>
+      <link>http://localhost:1313/ch0/algernon/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/algernon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 爱神小姐</title>
+      <link>http://localhost:1313/ch0/love-goddess/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/love-goddess/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 巴克斯</title>
+      <link>http://localhost:1313/ch0/bacchus/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/bacchus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 摆渡人</title>
+      <link>http://localhost:1313/ch0/le-passeur/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/le-passeur/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 蠢货</title>
+      <link>http://localhost:1313/ch0/idiot/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/idiot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 大男孩</title>
+      <link>http://localhost:1313/ch0/male-chauvinist/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/male-chauvinist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 独角兽小姐</title>
+      <link>http://localhost:1313/ch0/miss-unicorn/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/miss-unicorn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 渡鸦</title>
+      <link>http://localhost:1313/ch0/raven/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/raven/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 公正骑士</title>
+      <link>http://localhost:1313/ch0/justice-knight/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/justice-knight/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 红宝石</title>
+      <link>http://localhost:1313/ch0/ruby/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/ruby/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 简直要了我的命</title>
+      <link>http://localhost:1313/ch0/omg/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/omg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 鸠先生</title>
+      <link>http://localhost:1313/ch0/mr-jiu/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/mr-jiu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 枯萎颂</title>
+      <link>http://localhost:1313/ch0/wither/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/wither/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 苦行女爵</title>
+      <link>http://localhost:1313/ch0/suffer-dame/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/suffer-dame/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 乐手 L</title>
+      <link>http://localhost:1313/ch0/musician-l/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/musician-l/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 丽塔</title>
+      <link>http://localhost:1313/ch0/rita/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/rita/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 李苹</title>
+      <link>http://localhost:1313/ch0/apple/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/apple/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 烈阳＆宝剑王牌</title>
+      <link>http://localhost:1313/ch0/sun-sword/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/sun-sword/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 罗密欧＆朱丽叶</title>
+      <link>http://localhost:1313/ch0/romeo-juliet/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/romeo-juliet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 马索克博士</title>
+      <link>http://localhost:1313/ch0/dr-masoch/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/dr-masoch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 乔安妮</title>
+      <link>http://localhost:1313/ch0/joeanne/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/joeanne/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 情人达克</title>
+      <link>http://localhost:1313/ch0/lover-darker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/lover-darker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 沙漠舵手</title>
+      <link>http://localhost:1313/ch0/helmsman-in-desert/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/helmsman-in-desert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 少爷</title>
+      <link>http://localhost:1313/ch0/young-master/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/young-master/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 碎纸机女工</title>
+      <link>http://localhost:1313/ch0/shredder-worker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/shredder-worker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 索多玛人</title>
+      <link>http://localhost:1313/ch0/sodomite/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/sodomite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 忘却医生</title>
+      <link>http://localhost:1313/ch0/dr-oblivion/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/dr-oblivion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 息事顾问</title>
+      <link>http://localhost:1313/ch0/quietus-counselor/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/quietus-counselor/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 下颌小姐</title>
+      <link>http://localhost:1313/ch0/miss-mandible/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/miss-mandible/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 信条术士</title>
+      <link>http://localhost:1313/ch0/creed-warlock/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/creed-warlock/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 幸福代理</title>
+      <link>http://localhost:1313/ch0/pornographer/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/pornographer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 讶异信差</title>
+      <link>http://localhost:1313/ch0/404/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/404/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 烟灰缸</title>
+      <link>http://localhost:1313/ch0/ashtray/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/ashtray/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 一位作家</title>
+      <link>http://localhost:1313/ch0/a-writer/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/a-writer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 遗忘电台</title>
+      <link>http://localhost:1313/ch0/mx-kol/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/mx-kol/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 阴道苦修士</title>
+      <link>http://localhost:1313/ch0/vaginal-suffering-monk/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/vaginal-suffering-monk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 猪饲料小姐</title>
+      <link>http://localhost:1313/ch0/miss-pigfeed/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/miss-pigfeed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 烛光人偶</title>
+      <link>http://localhost:1313/ch0/candlelight-doll/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/candlelight-doll/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 字工</title>
+      <link>http://localhost:1313/ch0/word-worker/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/word-worker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 昨日晨星</title>
+      <link>http://localhost:1313/ch0/yesterday-morningstar/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/yesterday-morningstar/</guid>
       <description></description>
       
     </item>

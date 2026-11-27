@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生母 on ICANEATGLASS</title>
+    <link>http://localhost:1313/authors/%E7%94%9F%E6%AF%8D/</link>
+    <description>Recent content in 生母 on ICANEATGLASS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
+    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E7%94%9F%E6%AF%8D/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>企卡 - 生母</title>
+      <link>http://localhost:1313/chars/birth-mother/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/birth-mother/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

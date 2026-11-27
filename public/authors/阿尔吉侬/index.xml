@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>阿尔吉侬 on Blowfish</title>
+    <title>阿尔吉侬 on ICANEATGLASS</title>
     <link>http://localhost:1313/authors/%E9%98%BF%E5%B0%94%E5%90%89%E4%BE%AC/</link>
-    <description>Recent content in 阿尔吉侬 on Blowfish</description>
+    <description>Recent content in 阿尔吉侬 on ICANEATGLASS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2026 </copyright>
+    <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
     <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E9%98%BF%E5%B0%94%E5%90%89%E4%BE%AC/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>阿尔吉侬</title>
+      <title>企卡 - 阿尔吉侬</title>
       <link>http://localhost:1313/chars/algernon/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/chars/algernon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 阿尔吉侬</title>
+      <link>http://localhost:1313/ch0/algernon/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/algernon/</guid>
       <description></description>
       
     </item>

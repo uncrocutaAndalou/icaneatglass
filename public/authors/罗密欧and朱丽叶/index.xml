@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>罗密欧and朱丽叶 on ICANEATGLASS</title>
+    <link>http://localhost:1313/authors/%E7%BD%97%E5%AF%86%E6%AC%A7and%E6%9C%B1%E4%B8%BD%E5%8F%B6/</link>
+    <description>Recent content in 罗密欧and朱丽叶 on ICANEATGLASS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
+    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E7%BD%97%E5%AF%86%E6%AC%A7and%E6%9C%B1%E4%B8%BD%E5%8F%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>企卡 - 罗密欧＆朱丽叶</title>
+      <link>http://localhost:1313/chars/romeo-juliet/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/romeo-juliet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 罗密欧＆朱丽叶</title>
+      <link>http://localhost:1313/ch0/romeo-juliet/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/romeo-juliet/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

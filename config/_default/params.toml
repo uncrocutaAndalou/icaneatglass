@@ -69,17 +69,17 @@ forgejoDefaultServer = "https://codeberg.org"
   # layoutSwitcher = false # opt-in interactive preview of the built-in layouts
   homepageImage = "bg.png" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 9
   showMoreLink = false
   showMoreLinkDest = "/posts/"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
   showDate = false
-  showComments = true
+  showComments = false
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
@@ -91,7 +91,7 @@ forgejoDefaultServer = "https://codeberg.org"
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   # layoutBackgroundBlurStyle = "fade" # valid options: fade, classic. Only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -100,9 +100,9 @@ forgejoDefaultServer = "https://codeberg.org"
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showReadingProgress = false
-  showTableOfContents = true
+  showTableOfContents = false
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false # Enable the display of taxonomies for the related article.
@@ -110,7 +110,7 @@ forgejoDefaultServer = "https://codeberg.org"
   showTags = true # These will show if showTaxonomies is true.
   showCategoriesInSecondaryColor = false # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
   showZenMode = false
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
@@ -128,11 +128,11 @@ forgejoDefaultServer = "https://codeberg.org"
   showLikes = false
   showTableOfContents = false
   showCards = false
-  orderByWeight = false
-  groupByYear = true
-  cardView = false
+  orderByWeight = true
+  groupByYear = false
+  cardView = true
   cardViewScreenWidth = false
-  constrainItemsWidth = false
+  constrainItemsWidth = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
@@ -148,7 +148,7 @@ forgejoDefaultServer = "https://codeberg.org"
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = false
+  cardView = true
 
 [term]
   showHero = false
@@ -159,9 +159,9 @@ forgejoDefaultServer = "https://codeberg.org"
   showBreadcrumbs = false
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = false
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
 
 [firebase]

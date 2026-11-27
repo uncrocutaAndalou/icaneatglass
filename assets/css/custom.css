@@ -1,9 +1,52 @@
-@font-face {
-	font-family: font;
-	src: url("/fonts/HouZunSongTi.ttf");
-}
+@import url("https://fontsapi.zeoseven.com/63/main/result.css");
 
 html {
-	font-family: font;
+	font-family: "HouZunSongTi";
+	font-weight: normal;
 	letter-spacing: 0.1em;
+}
+
+@font-face {
+	font-family: HuaWenZhongSong;
+	src: url("/fonts/HuaWenZhongSong.ttf");
+}
+
+.article-content {
+	font-family: "HuaWenZhongSong";
+	letter-spacing: normal;
+}
+
+/* 图片排版 */
+/* class 的名字可以自己根据之前初始化的修改 */
+.view-box {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	justify-content: space-between;
+	align-items: flex-start; /* 确保没有备注的图片不会因为配合有备注图片的高度而拉长 */
+	--cols: 2; /* 默认一行两张图，可修改为更多 */
+}
+
+.view-box > img {
+	height: auto;
+	width: calc((100% - (var(--cols) - 1) * 10px) / var(--cols));
+	display: block;
+	cursor: pointer;
+	margin: 0;
+}
+
+.view-box figure {
+	width: calc(
+		(100% - (var(--cols) - 1) * 10px) / var(--cols)
+	); /* 和 img 保持一致 */
+	margin: 0;
+}
+
+.view-box figure img {
+	width: 100%;
+	display: block;
+}
+
+.view-box figcaption {
+	text-align: center;
 }

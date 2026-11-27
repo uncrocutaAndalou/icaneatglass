@@ -1,0 +1,10 @@
+{{ if eq $.Page.Kind "page" }}
+<script src="//tokinx.github.io/ViewImage/view-image.min.js" defer></script>
+<script>
+	window.addEventListener("load", function () {
+		if (window.ViewImage) {
+			ViewImage.init(".view-box img"); // 初始化，默认绑定 '[view-image] img'，可以自行修改
+		}
+	});
+</script>
+{{ end }}

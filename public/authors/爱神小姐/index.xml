@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>爱神小姐 on ICANEATGLASS</title>
+    <link>http://localhost:1313/authors/%E7%88%B1%E7%A5%9E%E5%B0%8F%E5%A7%90/</link>
+    <description>Recent content in 爱神小姐 on ICANEATGLASS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E7%88%B1%E7%A5%9E%E5%B0%8F%E5%A7%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>互动 - 爱神小姐的行李箱</title>
+      <link>http://localhost:1313/interact/love-goddess2/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/love-goddess2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 身高表</title>
+      <link>http://localhost:1313/interact/love-goddess1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/love-goddess1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 爱神小姐</title>
+      <link>http://localhost:1313/ch1/love-goddess/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/love-goddess/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 爱神小姐</title>
+      <link>http://localhost:1313/chars/love-goddess/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/love-goddess/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 爱神小姐</title>
+      <link>http://localhost:1313/ch0/love-goddess/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/love-goddess/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>芙洛拉andCherry on ICANEATGLASS</title>
+    <link>http://localhost:1313/authors/%E8%8A%99%E6%B4%9B%E6%8B%89andcherry/</link>
+    <description>Recent content in 芙洛拉andCherry on ICANEATGLASS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
+    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E8%8A%99%E6%B4%9B%E6%8B%89andcherry/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>企卡 - 芙洛拉&amp;Cherry</title>
+      <link>http://localhost:1313/chars/flora-cherry/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/flora-cherry/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

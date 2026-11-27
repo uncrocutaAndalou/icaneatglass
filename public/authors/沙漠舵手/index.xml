@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>沙漠舵手 on ICANEATGLASS</title>
+    <link>http://localhost:1313/authors/%E6%B2%99%E6%BC%A0%E8%88%B5%E6%89%8B/</link>
+    <description>Recent content in 沙漠舵手 on ICANEATGLASS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E6%B2%99%E6%BC%A0%E8%88%B5%E6%89%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>互动 - 沙漠舵手</title>
+      <link>http://localhost:1313/interact/helmsman-in-desert1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/helmsman-in-desert1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>企卡 - 沙漠舵手</title>
+      <link>http://localhost:1313/chars/helmsman-in-desert/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/helmsman-in-desert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 沙漠舵手</title>
+      <link>http://localhost:1313/ch0/helmsman-in-desert/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/helmsman-in-desert/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

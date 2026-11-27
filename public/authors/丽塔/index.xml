@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>丽塔 on ICANEATGLASS</title>
+    <link>http://localhost:1313/authors/%E4%B8%BD%E5%A1%94/</link>
+    <description>Recent content in 丽塔 on ICANEATGLASS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
+    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E4%B8%BD%E5%A1%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>企卡 - 丽塔</title>
+      <link>http://localhost:1313/chars/rita/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/chars/rita/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 0 - 丽塔</title>
+      <link>http://localhost:1313/ch0/rita/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch0/rita/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -21,25 +21,30 @@
     weight = 10
 
 [[main]]
-  name = "主线"
-  weight = 20
+    name = "主线"
+    weight = 20
 
 [[main]]
-  name = "主线 0"
-  parent = "主线"
-  pageRef = "plot0"
-  weight = 10
+    name = "主线 0"
+    parent = "主线"
+    pageRef = "ch0"
+    weight = 10
 
 [[main]]
-  name = "主线 1"
-  parent = "主线"
-  pageRef = "plot1"
-  weight = 20
+    name = "主线 1"
+    parent = "主线"
+    pageRef = "ch1"
+    weight = 20
 
 [[main]]
-  name = "互动"
-  weight = 30
+    name = "互动"
+    pageRef = "interact"
+    weight = 30
 
+[[main]]
+    name = "游戏"
+    pageRef = "game"
+    weight = 40
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
