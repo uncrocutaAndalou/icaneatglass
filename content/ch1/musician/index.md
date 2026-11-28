@@ -1,7 +1,7 @@
 ---
 title: "主线 1 - 乐手 L"
 date: 2026-11-27
-slug: "musician-l"
+slug: "singerl"
 categories: "主线"
 authors:
     - "乐手L"

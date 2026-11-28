@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E5%A4%B1%E7%9C%A0%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E5%A4%B1%E7%9C%A0%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>更新日志</title>
+      <link>http://localhost:1313/sitelog/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sitelog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>企卡 - 失眠者</title>

@@ -1,7 +1,7 @@
 ---
 title: "企卡 - 少爷"
 date: 2026-11-26
-slug: "young-master"
+slug: "the-tengger"
 categories: "企卡"
 tags: []
 authors:

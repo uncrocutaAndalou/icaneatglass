@@ -8,7 +8,7 @@ showAuthor: false
 weight: 20
 ---
 
-## Chapter1：██的故事
+## Chapter 1：██的故事
 
 那个让你成为“你”的故事。
 

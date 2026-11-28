@@ -1,7 +1,7 @@
 ---
 title: "互动 - 好孩子 to 小姑娘"
 date: 2026-11-27
-slug: "goodboy1"
+slug: "good-boy1"
 categories: "互动"
 authors:
     - "好孩子"

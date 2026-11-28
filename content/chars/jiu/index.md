@@ -1,7 +1,7 @@
 ---
 title: "企卡 - 鸠先生"
 date: 2026-11-26
-slug: "mr-jiu"
+slug: "turtle-dove"
 categories: "企卡"
 tags: []
 authors:

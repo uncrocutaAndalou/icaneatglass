@@ -1,3 +1,3 @@
 ---
-title: "主线 1"
+title: "Chapter 1"
 ---

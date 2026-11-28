@@ -1,7 +1,7 @@
 ---
 title: "互动 - 爱神小姐的行李箱"
 date: 2026-11-27
-slug: "love-goddess2"
+slug: "miss-love2"
 categories: "互动"
 authors:
     - "爱神小姐"

@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/interact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/interact/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>互动 - 爱神小姐 to 笔者</title>
+      <link>http://localhost:1313/interact/miss-love4/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/miss-love4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 爱神小姐 to 东瀛兵人</title>
+      <link>http://localhost:1313/interact/miss-love3/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/miss-love3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 薄雾小姐 to 乐手 L</title>
+      <link>http://localhost:1313/interact/miss-mist1/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/miss-mist1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 东瀛兵人 to 爱神小姐</title>
+      <link>http://localhost:1313/interact/nihon-soldier4/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/nihon-soldier4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 示例</title>
+      <link>http://localhost:1313/interact/example/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/example/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>互动 - “杂种”先生</title>
@@ -31,10 +81,10 @@
     
     <item>
       <title>互动 - 爱神小姐的行李箱</title>
-      <link>http://localhost:1313/interact/love-goddess2/</link>
+      <link>http://localhost:1313/interact/miss-love2/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/love-goddess2/</guid>
+      <guid>http://localhost:1313/interact/miss-love2/</guid>
       <description></description>
       
     </item>
@@ -60,6 +110,16 @@
     </item>
     
     <item>
+      <title>互动 - 初印象</title>
+      <link>http://localhost:1313/interact/schwindel1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/schwindel1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>互动 - 大男孩 to 巴克斯</title>
       <link>http://localhost:1313/interact/male-chauvinist1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
@@ -71,30 +131,30 @@
     
     <item>
       <title>互动 - 东瀛兵人 to 负鼠选手</title>
-      <link>http://localhost:1313/interact/jpsoldier3/</link>
+      <link>http://localhost:1313/interact/nihon-soldier3/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/jpsoldier3/</guid>
+      <guid>http://localhost:1313/interact/nihon-soldier3/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>互动 - 东瀛兵人 to 净盘将军</title>
-      <link>http://localhost:1313/interact/jpsoldier1/</link>
+      <link>http://localhost:1313/interact/nihon-soldier1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/jpsoldier1/</guid>
+      <guid>http://localhost:1313/interact/nihon-soldier1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>互动 - 东瀛兵人的手账本</title>
-      <link>http://localhost:1313/interact/jpsoldier2/</link>
+      <link>http://localhost:1313/interact/nihon-soldier2/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/jpsoldier2/</guid>
+      <guid>http://localhost:1313/interact/nihon-soldier2/</guid>
       <description></description>
       
     </item>
@@ -121,10 +181,10 @@
     
     <item>
       <title>互动 - 好孩子 to 小姑娘</title>
-      <link>http://localhost:1313/interact/goodboy1/</link>
+      <link>http://localhost:1313/interact/good-boy1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/goodboy1/</guid>
+      <guid>http://localhost:1313/interact/good-boy1/</guid>
       <description></description>
       
     </item>
@@ -190,16 +250,6 @@
     </item>
     
     <item>
-      <title>互动 - 乐手 L</title>
-      <link>http://localhost:1313/interact/musician-l1/</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/interact/musician-l1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>互动 - 马索克博士 to 苦行女爵</title>
       <link>http://localhost:1313/interact/dr-masoch1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
@@ -221,30 +271,10 @@
     
     <item>
       <title>互动 - 身高表</title>
-      <link>http://localhost:1313/interact/love-goddess1/</link>
+      <link>http://localhost:1313/interact/miss-love1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/love-goddess1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>互动 - 诗温德</title>
-      <link>http://localhost:1313/interact/schwindel1/</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/interact/schwindel1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>互动 - 示例</title>
-      <link>http://localhost:1313/interact/example/</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/interact/example/</guid>
+      <guid>http://localhost:1313/interact/miss-love1/</guid>
       <description></description>
       
     </item>

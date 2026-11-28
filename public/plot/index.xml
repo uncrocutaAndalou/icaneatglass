@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/plot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/plot/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>主线 0</title>
@@ -25,6 +25,16 @@
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/plot/chapter1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1.5</title>
+      <link>http://localhost:1313/plot/chapter1.5/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/plot/chapter1.5/</guid>
       <description></description>
       
     </item>

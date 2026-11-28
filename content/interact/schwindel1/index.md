@@ -1,5 +1,5 @@
 ---
-title: "互动 - 诗温德"
+title: "互动 - 初印象"
 date: 2026-11-27
 slug: "schwindel1"
 categories: "互动"

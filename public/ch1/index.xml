@@ -1,20 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>主线 1 on ICANEATGLASS</title>
+    <title>Chapter 1 on ICANEATGLASS</title>
     <link>http://localhost:1313/ch1/</link>
-    <description>Recent content in 主线 1 on ICANEATGLASS</description>
+    <description>Recent content in Chapter 1 on ICANEATGLASS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ch1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ch1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>主线 1 - 惨剧新郎</title>
+      <link>http://localhost:1313/ch1/tragedys-groom/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/tragedys-groom/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 东瀛兵人</title>
+      <link>http://localhost:1313/ch1/nihon-soldier/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/nihon-soldier/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 鸠先生</title>
+      <link>http://localhost:1313/ch1/turtle-dove/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/turtle-dove/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>主线 1 - “好孩子”</title>
-      <link>http://localhost:1313/ch1/goodboy/</link>
+      <link>http://localhost:1313/ch1/good-boy/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch1/goodboy/</guid>
+      <guid>http://localhost:1313/ch1/good-boy/</guid>
       <description></description>
       
     </item>
@@ -41,10 +71,10 @@
     
     <item>
       <title>主线 1 - 爱神小姐</title>
-      <link>http://localhost:1313/ch1/love-goddess/</link>
+      <link>http://localhost:1313/ch1/miss-love/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch1/love-goddess/</guid>
+      <guid>http://localhost:1313/ch1/miss-love/</guid>
       <description></description>
       
     </item>
@@ -101,10 +131,10 @@
     
     <item>
       <title>主线 1 - 乐手 L</title>
-      <link>http://localhost:1313/ch1/musician-l/</link>
+      <link>http://localhost:1313/ch1/singerl/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch1/musician-l/</guid>
+      <guid>http://localhost:1313/ch1/singerl/</guid>
       <description></description>
       
     </item>
@@ -131,10 +161,10 @@
     
     <item>
       <title>主线 1 - 碎纸机女工</title>
-      <link>http://localhost:1313/ch1/shredder-worker/</link>
+      <link>http://localhost:1313/ch1/the-shredder/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch1/shredder-worker/</guid>
+      <guid>http://localhost:1313/ch1/the-shredder/</guid>
       <description></description>
       
     </item>

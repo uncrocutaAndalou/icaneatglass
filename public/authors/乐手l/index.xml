@@ -11,40 +11,40 @@
     
     <item>
       <title>互动 - 乐手 L</title>
-      <link>http://localhost:1313/interact/musician-l1/</link>
+      <link>http://localhost:1313/interact/singerl1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/musician-l1/</guid>
+      <guid>http://localhost:1313/interact/singerl1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>主线 1 - 乐手 L</title>
-      <link>http://localhost:1313/ch1/musician-l/</link>
+      <link>http://localhost:1313/ch1/singerl/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch1/musician-l/</guid>
+      <guid>http://localhost:1313/ch1/singerl/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>企卡 - 乐手 L</title>
-      <link>http://localhost:1313/chars/musician-l/</link>
+      <link>http://localhost:1313/chars/singerl/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/musician-l/</guid>
+      <guid>http://localhost:1313/chars/singerl/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>主线 0 - 乐手 L</title>
-      <link>http://localhost:1313/ch0/musician-l/</link>
+      <link>http://localhost:1313/ch0/singerl/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/musician-l/</guid>
+      <guid>http://localhost:1313/ch0/singerl/</guid>
       <description></description>
       
     </item>

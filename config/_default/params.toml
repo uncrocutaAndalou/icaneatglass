@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["ch0", "ch1", "ch1.5", "interact"]
 # robots = ""
 
 disableImageOptimization = false

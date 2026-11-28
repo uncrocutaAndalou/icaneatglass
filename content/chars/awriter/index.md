@@ -1,7 +1,7 @@
 ---
 title: "企卡 - 一位作家"
 date: 2026-11-26
-slug: "a-writer"
+slug: "writer"
 categories: "企卡"
 tags: []
 authors:

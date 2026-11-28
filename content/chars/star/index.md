@@ -1,7 +1,7 @@
 ---
 title: "企卡 - 巡星"
 date: 2026-11-26
-slug: "star"
+slug: "starseeking"
 categories: "企卡"
 tags: []
 authors:

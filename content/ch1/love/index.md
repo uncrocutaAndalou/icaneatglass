@@ -1,7 +1,7 @@
 ---
 title: "主线 1 - 爱神小姐"
 date: 2026-11-27
-slug: "love-goddess"
+slug: "miss-love"
 categories: "主线"
 authors:
     - "爱神小姐"

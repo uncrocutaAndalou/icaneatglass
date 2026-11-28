@@ -1,7 +1,7 @@
 ---
 title: "企卡 - 东瀛兵人"
 date: 2026-11-26
-slug: "jpsoldier"
+slug: "nihon-soldier"
 categories: "企卡"
 tags: []
 authors:

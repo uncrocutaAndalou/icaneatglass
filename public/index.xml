@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>主线 0</title>
@@ -25,6 +25,106 @@
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/plot/chapter1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1.5</title>
+      <link>http://localhost:1313/plot/chapter1.5/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/plot/chapter1.5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 爱神小姐 to 笔者</title>
+      <link>http://localhost:1313/interact/miss-love4/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/miss-love4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 爱神小姐 to 东瀛兵人</title>
+      <link>http://localhost:1313/interact/miss-love3/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/miss-love3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 东瀛兵人 to 爱神小姐</title>
+      <link>http://localhost:1313/interact/nihon-soldier4/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/nihon-soldier4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>互动 - 示例</title>
+      <link>http://localhost:1313/interact/example/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/example/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 惨剧新郎</title>
+      <link>http://localhost:1313/ch1/tragedys-groom/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/tragedys-groom/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 东瀛兵人</title>
+      <link>http://localhost:1313/ch1/nihon-soldier/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/nihon-soldier/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1 - 鸠先生</title>
+      <link>http://localhost:1313/ch1/turtle-dove/</link>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1/turtle-dove/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>更新日志</title>
+      <link>http://localhost:1313/sitelog/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sitelog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
       
     </item>
@@ -51,10 +151,10 @@
     
     <item>
       <title>互动 - 爱神小姐的行李箱</title>
-      <link>http://localhost:1313/interact/love-goddess2/</link>
+      <link>http://localhost:1313/interact/miss-love2/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/love-goddess2/</guid>
+      <guid>http://localhost:1313/interact/miss-love2/</guid>
       <description></description>
       
     </item>
@@ -80,6 +180,16 @@
     </item>
     
     <item>
+      <title>互动 - 初印象</title>
+      <link>http://localhost:1313/interact/schwindel1/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interact/schwindel1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>互动 - 大男孩 to 巴克斯</title>
       <link>http://localhost:1313/interact/male-chauvinist1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
@@ -91,30 +201,30 @@
     
     <item>
       <title>互动 - 东瀛兵人 to 负鼠选手</title>
-      <link>http://localhost:1313/interact/jpsoldier3/</link>
+      <link>http://localhost:1313/interact/nihon-soldier3/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/jpsoldier3/</guid>
+      <guid>http://localhost:1313/interact/nihon-soldier3/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>互动 - 东瀛兵人 to 净盘将军</title>
-      <link>http://localhost:1313/interact/jpsoldier1/</link>
+      <link>http://localhost:1313/interact/nihon-soldier1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/jpsoldier1/</guid>
+      <guid>http://localhost:1313/interact/nihon-soldier1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>互动 - 东瀛兵人的手账本</title>
-      <link>http://localhost:1313/interact/jpsoldier2/</link>
+      <link>http://localhost:1313/interact/nihon-soldier2/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/jpsoldier2/</guid>
+      <guid>http://localhost:1313/interact/nihon-soldier2/</guid>
       <description></description>
       
     </item>
@@ -141,10 +251,10 @@
     
     <item>
       <title>互动 - 好孩子 to 小姑娘</title>
-      <link>http://localhost:1313/interact/goodboy1/</link>
+      <link>http://localhost:1313/interact/good-boy1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/goodboy1/</guid>
+      <guid>http://localhost:1313/interact/good-boy1/</guid>
       <description></description>
       
     </item>
@@ -211,10 +321,10 @@
     
     <item>
       <title>互动 - 乐手 L</title>
-      <link>http://localhost:1313/interact/musician-l1/</link>
+      <link>http://localhost:1313/interact/singerl1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/musician-l1/</guid>
+      <guid>http://localhost:1313/interact/singerl1/</guid>
       <description></description>
       
     </item>
@@ -241,30 +351,10 @@
     
     <item>
       <title>互动 - 身高表</title>
-      <link>http://localhost:1313/interact/love-goddess1/</link>
+      <link>http://localhost:1313/interact/miss-love1/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interact/love-goddess1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>互动 - 诗温德</title>
-      <link>http://localhost:1313/interact/schwindel1/</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/interact/schwindel1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>互动 - 示例</title>
-      <link>http://localhost:1313/interact/example/</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/interact/example/</guid>
+      <guid>http://localhost:1313/interact/miss-love1/</guid>
       <description></description>
       
     </item>
@@ -311,10 +401,10 @@
     
     <item>
       <title>主线 1 - “好孩子”</title>
-      <link>http://localhost:1313/ch1/goodboy/</link>
+      <link>http://localhost:1313/ch1/good-boy/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch1/goodboy/</guid>
+      <guid>http://localhost:1313/ch1/good-boy/</guid>
       <description></description>
       
     </item>
@@ -341,10 +431,10 @@
     
     <item>
       <title>主线 1 - 爱神小姐</title>
-      <link>http://localhost:1313/ch1/love-goddess/</link>
+      <link>http://localhost:1313/ch1/miss-love/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch1/love-goddess/</guid>
+      <guid>http://localhost:1313/ch1/miss-love/</guid>
       <description></description>
       
     </item>
@@ -401,10 +491,10 @@
     
     <item>
       <title>主线 1 - 乐手 L</title>
-      <link>http://localhost:1313/ch1/musician-l/</link>
+      <link>http://localhost:1313/ch1/singerl/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch1/musician-l/</guid>
+      <guid>http://localhost:1313/ch1/singerl/</guid>
       <description></description>
       
     </item>
@@ -431,20 +521,30 @@
     
     <item>
       <title>主线 1 - 碎纸机女工</title>
-      <link>http://localhost:1313/ch1/shredder-worker/</link>
+      <link>http://localhost:1313/ch1/the-shredder/</link>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch1/shredder-worker/</guid>
+      <guid>http://localhost:1313/ch1/the-shredder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1.5 - 示例</title>
+      <link>http://localhost:1313/ch1.5/example/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1.5/example/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>企卡 - “好孩子”</title>
-      <link>http://localhost:1313/chars/goodboy/</link>
+      <link>http://localhost:1313/chars/good-boy/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/goodboy/</guid>
+      <guid>http://localhost:1313/chars/good-boy/</guid>
       <description></description>
       
     </item>
@@ -531,10 +631,10 @@
     
     <item>
       <title>企卡 - 爱神小姐</title>
-      <link>http://localhost:1313/chars/love-goddess/</link>
+      <link>http://localhost:1313/chars/miss-love/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/love-goddess/</guid>
+      <guid>http://localhost:1313/chars/miss-love/</guid>
       <description></description>
       
     </item>
@@ -611,10 +711,10 @@
     
     <item>
       <title>企卡 - 绸缎之下</title>
-      <link>http://localhost:1313/chars/under-silk/</link>
+      <link>http://localhost:1313/chars/under-the-silk/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/under-silk/</guid>
+      <guid>http://localhost:1313/chars/under-the-silk/</guid>
       <description></description>
       
     </item>
@@ -651,10 +751,10 @@
     
     <item>
       <title>企卡 - 东瀛兵人</title>
-      <link>http://localhost:1313/chars/jpsoldier/</link>
+      <link>http://localhost:1313/chars/nihon-soldier/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/jpsoldier/</guid>
+      <guid>http://localhost:1313/chars/nihon-soldier/</guid>
       <description></description>
       
     </item>
@@ -731,20 +831,20 @@
     
     <item>
       <title>企卡 - 黑條紋先生</title>
-      <link>http://localhost:1313/chars/mr-blackstripe/</link>
+      <link>http://localhost:1313/chars/mr-black-stripes/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/mr-blackstripe/</guid>
+      <guid>http://localhost:1313/chars/mr-black-stripes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>企卡 - 红宝石</title>
-      <link>http://localhost:1313/chars/ruby/</link>
+      <link>http://localhost:1313/chars/lal/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/ruby/</guid>
+      <guid>http://localhost:1313/chars/lal/</guid>
       <description></description>
       
     </item>
@@ -791,10 +891,10 @@
     
     <item>
       <title>企卡 - 鸠先生</title>
-      <link>http://localhost:1313/chars/mr-jiu/</link>
+      <link>http://localhost:1313/chars/turtle-dove/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/mr-jiu/</guid>
+      <guid>http://localhost:1313/chars/turtle-dove/</guid>
       <description></description>
       
     </item>
@@ -821,10 +921,10 @@
     
     <item>
       <title>企卡 - 乐手 L</title>
-      <link>http://localhost:1313/chars/musician-l/</link>
+      <link>http://localhost:1313/chars/singerl/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/musician-l/</guid>
+      <guid>http://localhost:1313/chars/singerl/</guid>
       <description></description>
       
     </item>
@@ -941,10 +1041,10 @@
     
     <item>
       <title>企卡 - 少爷</title>
-      <link>http://localhost:1313/chars/young-master/</link>
+      <link>http://localhost:1313/chars/the-tengger/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/young-master/</guid>
+      <guid>http://localhost:1313/chars/the-tengger/</guid>
       <description></description>
       
     </item>
@@ -981,10 +1081,10 @@
     
     <item>
       <title>企卡 - 碎纸机女工</title>
-      <link>http://localhost:1313/chars/shredder-worker/</link>
+      <link>http://localhost:1313/chars/the-shredder/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/shredder-worker/</guid>
+      <guid>http://localhost:1313/chars/the-shredder/</guid>
       <description></description>
       
     </item>
@@ -1101,10 +1201,10 @@
     
     <item>
       <title>企卡 - 巡星</title>
-      <link>http://localhost:1313/chars/star/</link>
+      <link>http://localhost:1313/chars/starseeking/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/star/</guid>
+      <guid>http://localhost:1313/chars/starseeking/</guid>
       <description></description>
       
     </item>
@@ -1131,10 +1231,10 @@
     
     <item>
       <title>企卡 - 一位作家</title>
-      <link>http://localhost:1313/chars/a-writer/</link>
+      <link>http://localhost:1313/chars/writer/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/a-writer/</guid>
+      <guid>http://localhost:1313/chars/writer/</guid>
       <description></description>
       
     </item>
@@ -1211,10 +1311,10 @@
     
     <item>
       <title>主线 0 - “好孩子”</title>
-      <link>http://localhost:1313/ch0/goodboy/</link>
+      <link>http://localhost:1313/ch0/good-boy/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/goodboy/</guid>
+      <guid>http://localhost:1313/ch0/good-boy/</guid>
       <description></description>
       
     </item>
@@ -1271,10 +1371,10 @@
     
     <item>
       <title>主线 0 - 爱神小姐</title>
-      <link>http://localhost:1313/ch0/love-goddess/</link>
+      <link>http://localhost:1313/ch0/miss-love/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/love-goddess/</guid>
+      <guid>http://localhost:1313/ch0/miss-love/</guid>
       <description></description>
       
     </item>
@@ -1351,10 +1451,10 @@
     
     <item>
       <title>主线 0 - 红宝石</title>
-      <link>http://localhost:1313/ch0/ruby/</link>
+      <link>http://localhost:1313/ch0/lal/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/ruby/</guid>
+      <guid>http://localhost:1313/ch0/lal/</guid>
       <description></description>
       
     </item>
@@ -1371,10 +1471,10 @@
     
     <item>
       <title>主线 0 - 鸠先生</title>
-      <link>http://localhost:1313/ch0/mr-jiu/</link>
+      <link>http://localhost:1313/ch0/turtle-dove/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/mr-jiu/</guid>
+      <guid>http://localhost:1313/ch0/turtle-dove/</guid>
       <description></description>
       
     </item>
@@ -1401,10 +1501,10 @@
     
     <item>
       <title>主线 0 - 乐手 L</title>
-      <link>http://localhost:1313/ch0/musician-l/</link>
+      <link>http://localhost:1313/ch0/singerl/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/musician-l/</guid>
+      <guid>http://localhost:1313/ch0/singerl/</guid>
       <description></description>
       
     </item>
@@ -1491,20 +1591,20 @@
     
     <item>
       <title>主线 0 - 少爷</title>
-      <link>http://localhost:1313/ch0/young-master/</link>
+      <link>http://localhost:1313/ch0/the-tengger/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/young-master/</guid>
+      <guid>http://localhost:1313/ch0/the-tengger/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>主线 0 - 碎纸机女工</title>
-      <link>http://localhost:1313/ch0/shredder-worker/</link>
+      <link>http://localhost:1313/ch0/the-shredder/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/shredder-worker/</guid>
+      <guid>http://localhost:1313/ch0/the-shredder/</guid>
       <description></description>
       
     </item>
@@ -1591,10 +1691,10 @@
     
     <item>
       <title>主线 0 - 一位作家</title>
-      <link>http://localhost:1313/ch0/a-writer/</link>
+      <link>http://localhost:1313/ch0/writer/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/a-writer/</guid>
+      <guid>http://localhost:1313/ch0/writer/</guid>
       <description></description>
       
     </item>

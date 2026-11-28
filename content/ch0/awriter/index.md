@@ -1,7 +1,7 @@
 ---
 title: "主线 0 - 一位作家"
 date: 2026-11-26
-slug: "a-writer"
+slug: "writer"
 categories: "主线"
 authors:
     - "一位作家"

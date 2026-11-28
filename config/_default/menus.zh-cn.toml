@@ -25,16 +25,22 @@
     weight = 20
 
 [[main]]
-    name = "主线 0"
+    name = "Chapter 0"
     parent = "主线"
     pageRef = "ch0"
     weight = 10
 
 [[main]]
-    name = "主线 1"
+    name = "Chapter 1"
     parent = "主线"
     pageRef = "ch1"
     weight = 20
+
+[[main]]
+    name = "Chapter 1.5"
+    parent = "主线"
+    pageRef = "ch1.5"
+    weight = 30
 
 [[main]]
     name = "互动"
@@ -45,6 +51,24 @@
     name = "游戏"
     pageRef = "game"
     weight = 40
+
+[[main]]
+    name = "关于"
+    weight = 50
+
+[[main]]
+    name = "本站说明"
+    parent = "关于"
+    pageRef = "about"
+    weight = 10
+
+
+[[main]]
+    name = "更新日志"
+    parent = "关于"
+    pageRef = "sitelog"
+    weight = 20
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

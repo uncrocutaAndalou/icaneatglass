@@ -15,13 +15,91 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/plot/chapter1.5/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ch1/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/interact/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/interact/miss-love4/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/interact/miss-love3/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/interact/nihon-soldier4/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/interact/example/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/plot/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ch1/tragedys-groom/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ch1/nihon-soldier/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ch1/turtle-dove/</loc>
+    <lastmod>2026-11-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ch1.5/</loc>
+    <lastmod>2026-11-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/sitelog/</loc>
+    <lastmod>2026-11-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -39,7 +117,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/interact/love-goddess2/</loc>
+    <loc>http://localhost:1313/interact/miss-love2/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -57,25 +135,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/interact/schwindel1/</loc>
+    <lastmod>2026-11-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/interact/male-chauvinist1/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/interact/jpsoldier3/</loc>
+    <loc>http://localhost:1313/interact/nihon-soldier3/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/interact/jpsoldier1/</loc>
+    <loc>http://localhost:1313/interact/nihon-soldier1/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/interact/jpsoldier2/</loc>
+    <loc>http://localhost:1313/interact/nihon-soldier2/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -93,7 +177,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/interact/goodboy1/</loc>
+    <loc>http://localhost:1313/interact/good-boy1/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -135,7 +219,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/interact/musician-l1/</loc>
+    <loc>http://localhost:1313/interact/singerl1/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -153,19 +237,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/interact/love-goddess1/</loc>
-    <lastmod>2026-11-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/interact/schwindel1/</loc>
-    <lastmod>2026-11-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/interact/example/</loc>
+    <loc>http://localhost:1313/interact/miss-love1/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -195,13 +267,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch1/</loc>
-    <lastmod>2026-11-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ch1/goodboy/</loc>
+    <loc>http://localhost:1313/ch1/good-boy/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -219,7 +285,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch1/love-goddess/</loc>
+    <loc>http://localhost:1313/ch1/miss-love/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -255,7 +321,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch1/musician-l/</loc>
+    <loc>http://localhost:1313/ch1/singerl/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -273,13 +339,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch1/shredder-worker/</loc>
+    <loc>http://localhost:1313/ch1/the-shredder/</loc>
     <lastmod>2026-11-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/plot/</loc>
+    <loc>http://localhost:1313/ch1.5/example/</loc>
+    <lastmod>2026-11-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ch0/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -291,7 +363,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/goodboy/</loc>
+    <loc>http://localhost:1313/chars/good-boy/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -345,7 +417,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/love-goddess/</loc>
+    <loc>http://localhost:1313/chars/miss-love/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -393,7 +465,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/under-silk/</loc>
+    <loc>http://localhost:1313/chars/under-the-silk/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -417,7 +489,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/jpsoldier/</loc>
+    <loc>http://localhost:1313/chars/nihon-soldier/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -465,13 +537,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/mr-blackstripe/</loc>
+    <loc>http://localhost:1313/chars/mr-black-stripes/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/ruby/</loc>
+    <loc>http://localhost:1313/chars/lal/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -501,7 +573,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/mr-jiu/</loc>
+    <loc>http://localhost:1313/chars/turtle-dove/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -519,7 +591,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/musician-l/</loc>
+    <loc>http://localhost:1313/chars/singerl/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -591,7 +663,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/young-master/</loc>
+    <loc>http://localhost:1313/chars/the-tengger/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -615,7 +687,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/shredder-worker/</loc>
+    <loc>http://localhost:1313/chars/the-shredder/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -687,7 +759,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/star/</loc>
+    <loc>http://localhost:1313/chars/starseeking/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -705,7 +777,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/chars/a-writer/</loc>
+    <loc>http://localhost:1313/chars/writer/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -753,13 +825,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch0/</loc>
-    <lastmod>2026-11-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/ch0/goodboy/</loc>
+    <loc>http://localhost:1313/ch0/good-boy/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -795,7 +861,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch0/love-goddess/</loc>
+    <loc>http://localhost:1313/ch0/miss-love/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -843,7 +909,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch0/ruby/</loc>
+    <loc>http://localhost:1313/ch0/lal/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -855,7 +921,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch0/mr-jiu/</loc>
+    <loc>http://localhost:1313/ch0/turtle-dove/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -873,7 +939,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch0/musician-l/</loc>
+    <loc>http://localhost:1313/ch0/singerl/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -927,13 +993,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch0/young-master/</loc>
+    <loc>http://localhost:1313/ch0/the-tengger/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch0/shredder-worker/</loc>
+    <loc>http://localhost:1313/ch0/the-shredder/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -987,7 +1053,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/ch0/a-writer/</loc>
+    <loc>http://localhost:1313/ch0/writer/</loc>
     <lastmod>2026-11-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

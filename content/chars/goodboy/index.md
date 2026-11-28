@@ -1,7 +1,7 @@
 ---
 title: "企卡 - “好孩子”"
 date: 2026-11-26
-slug: "goodboy"
+slug: "good-boy"
 categories: "企卡"
 tags: []
 authors:

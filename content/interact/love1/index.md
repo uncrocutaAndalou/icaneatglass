@@ -1,7 +1,7 @@
 ---
 title: "互动 - 身高表"
 date: 2026-11-27
-slug: "love-goddess1"
+slug: "miss-love1"
 categories: "互动"
 authors:
     - "爱神小姐"

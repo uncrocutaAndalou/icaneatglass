@@ -1,7 +1,7 @@
 ---
 title: "企卡 - 黑條紋先生"
 date: 2026-11-26
-slug: "mr-blackstripe"
+slug: "mr-black-stripes"
 categories: "企卡"
 tags: []
 authors:

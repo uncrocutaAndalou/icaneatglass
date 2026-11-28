@@ -11,20 +11,20 @@
     
     <item>
       <title>企卡 - 一位作家</title>
-      <link>http://localhost:1313/chars/a-writer/</link>
+      <link>http://localhost:1313/chars/writer/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/chars/a-writer/</guid>
+      <guid>http://localhost:1313/chars/writer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>主线 0 - 一位作家</title>
-      <link>http://localhost:1313/ch0/a-writer/</link>
+      <link>http://localhost:1313/ch0/writer/</link>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ch0/a-writer/</guid>
+      <guid>http://localhost:1313/ch0/writer/</guid>
       <description></description>
       
     </item>

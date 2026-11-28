@@ -1,7 +1,7 @@
 ---
 title: "主线 0 - 鸠先生"
 date: 2026-11-26
-slug: "mr-jiu"
+slug: "turtle-dove"
 categories: "主线"
 authors:
     - "鸠先生"

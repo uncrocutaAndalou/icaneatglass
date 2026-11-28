@@ -1,7 +1,7 @@
 ---
 title: "企卡 - 红宝石"
 date: 2026-11-26
-slug: "ruby"
+slug: "lal"
 categories: "企卡"
 tags: []
 authors:

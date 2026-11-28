@@ -10,5 +10,7 @@ authors:
 互动互动@巴克斯 用这个背景只为和打卡纸区别开）
 
 <div class="view-box" view-image style="--cols:2">
-	<img src="IMG.jpg" />
+	<img src="bigboy1 (1).jpg" />
+	<img src="bigboy1 (2).jpg" />
+	<img src="bigboy1 (3).jpg" />
 </div>

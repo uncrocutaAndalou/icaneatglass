@@ -1,7 +1,7 @@
 ---
 title: "主线 0 - 红宝石"
 date: 2026-11-26
-slug: "ruby"
+slug: "lal"
 categories: "主线"
 authors:
     - "红宝石"

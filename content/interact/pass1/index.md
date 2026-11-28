@@ -7,7 +7,7 @@ authors:
     - "摆渡人"
 ---
 
-@“好孩子” “摆渡人”乐于回答年轻人的一些*可爱*的小问题。
+“摆渡人”乐于回答年轻人的一些*可爱*的小问题。
 
 <div class="view-box" view-image style="--cols:2">
 	<img src="IMG_017.jpg" />

@@ -1,7 +1,7 @@
 ---
 title: "主线 0 - “好孩子”"
 date: 2026-11-26
-slug: "goodboy"
+slug: "good-boy"
 categories: "主线"
 authors:
     - "好孩子"

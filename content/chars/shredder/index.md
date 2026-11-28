@@ -1,7 +1,7 @@
 ---
 title: "企卡 - 碎纸机女工"
 date: 2026-11-26
-slug: "shredder-worker"
+slug: "the-shredder"
 categories: "企卡"
 tags: []
 authors:

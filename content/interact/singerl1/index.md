@@ -1,7 +1,7 @@
 ---
 title: "互动 - 乐手 L"
 date: 2026-11-27
-slug: "musician-l1"
+slug: "singerl1"
 categories: "互动"
 authors:
     - "乐手L"

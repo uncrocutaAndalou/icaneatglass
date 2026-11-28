@@ -1,7 +1,7 @@
 ---
 title: "主线 0 - 少爷"
 date: 2026-11-26
-slug: "young-master"
+slug: "the-tengger"
 categories: "主线"
 authors:
     - "少爷"

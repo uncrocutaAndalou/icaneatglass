@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 I can eat glass, it does not hurt me.</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E7%A4%BA%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/%E7%A4%BA%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>互动 - 示例</title>
       <link>http://localhost:1313/interact/example/</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/interact/example/</guid>
       <description></description>
@@ -25,6 +25,16 @@
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/ch1/example/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>主线 1.5 - 示例</title>
+      <link>http://localhost:1313/ch1.5/example/</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ch1.5/example/</guid>
       <description></description>
       
     </item>

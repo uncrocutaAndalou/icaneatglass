@@ -1,7 +1,7 @@
 ---
 title: "企卡 - 绸缎之下"
 date: 2026-11-26
-slug: "under-silk"
+slug: "under-the-silk"
 categories: "企卡"
 tags: []
 authors:

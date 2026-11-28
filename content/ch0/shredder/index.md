@@ -1,7 +1,7 @@
 ---
 title: "主线 0 - 碎纸机女工"
 date: 2026-11-26
-slug: "shredder-worker"
+slug: "the-shredder"
 categories: "主线"
 authors:
     - "碎纸机女工"
